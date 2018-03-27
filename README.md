@@ -9,6 +9,7 @@ This repository contains my work for Udacity's Machine Learning Foundation Nanod
 * *Project 1:* [2016 US Bike Share Activity](https://github.com/seifip/udacity-data-analyst-nanodegree/tree/master/P2%20-%20Analyzing%20the%20NYC%20Subway%20Dataset)
 * *Project 2:* [Test a Perceptual Phenomenon](https://github.com/seifip/udacity-data-analyst-nanodegree/tree/master/P1%20-Test%20a%20Perceptual%20Phenomenon)
 * *Project 3:* [Investigate a TMDb dataset](https://github.com/seifip/udacity-data-analyst-nanodegree/tree/master/P3%20-%20Data%20Wrangling%20with%20MongoDB)
+* *Project 4:* [Boston Housing price](https://github.com/greatdrs/myUdacity_project/tree/master/boston_housing)
 
 ## Courses taken:
 * Intro to Python
