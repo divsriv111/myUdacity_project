@@ -10,6 +10,7 @@ This repository contains my work for Udacity's Machine Learning Foundation Nanod
 * *Project 2:* [Test a Perceptual Phenomenon](https://github.com/greatdrs/myUdacity_project/tree/master/Test_a_Perceptual%20Phenomenon)
 * *Project 3:* [Investigate a TMDb dataset](https://github.com/greatdrs/myUdacity_project/tree/master/investigate%20a%20dataset)
 * *Project 4:* [Boston Housing price](https://github.com/greatdrs/myUdacity_project/tree/master/boston_housing)
+* *Project 5:* [Finding Donor for CharityML](https://github.com/greatdrs/myUdacity_project/tree/master/finding_donors)
 
 ## Courses taken:
 * Intro to Python
@@ -18,6 +19,6 @@ This repository contains my work for Udacity's Machine Learning Foundation Nanod
 * Intro to Machine Learning
 
 ## Skills acquired:
-* Python (numpy, pandas, matplotlib, sklearn, seaborn...)
+* Python (numpy, pandas, matplotlib, sklearn, seaborn)
 * Basic Maths
 * Jupyter notebook
